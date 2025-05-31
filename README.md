@@ -38,19 +38,21 @@ Here are some ideas to get you started:
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Programming Languages
 
 <p align="left">
-  <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
 </p>
-  <!-- Frontend & Backend -->
- <p align="left">
-   ### 🛠️ Languages & Tools
+
+---
+
+### 💻 Frontend & Backend Development
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40"/>
@@ -59,15 +61,20 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
+---
 
-  <!-- Databases -->
+### 🗄️ Databases
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
   <img src="https://img.shields.io/badge/MS%20Access-BA141A?style=flat&logo=microsoft-access&logoColor=white" alt="MS Access"/>
 </p>
 
-  <!-- Tools & Platforms -->
+---
+
+### ⚙️ Tools & Platforms
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
@@ -78,38 +85,32 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/StarUML-blue?style=flat&logo=uml" alt="StarUML"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Figma-333333?style=flat&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.icons8.com/?size=96&id=IhWBOFHtv6vx&format=png" alt="Ethereum"/>
+  <img src="https://img.icons8.com/?size=96&id=Oi106YG9IoLv&format=png" alt="Metamask"/>
+
 </p>
 
+---
 
-  <!-- Machine Learning & AI -->
+### 🤖 Machine Learning & AI
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-learn" width="40"/>
   <img src="https://img.shields.io/badge/Gradio-FF7F00?style=flat&logo=gradio&logoColor=white" alt="Gradio"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/LangChain-blue?style=flat" alt="LangChain"/>
   <img src="https://img.shields.io/badge/Gemini-Google%20AI-black?style=flat&logo=google" alt="Gemini AI"/>
 </p>
-
-
-  <!-- Additional Libraries/Frameworks -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Gradio-FF7F00?style=flat&logo=gradio&logoColor=white" alt="Gradio"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/LangChain-blue?style=flat" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Gemini-Google%20AI-black?style=flat&logo=google" alt="Gemini AI"/>
-  <img src="https://img.shields.io/badge/StarUML-blue?style=flat&logo=uml" alt="StarUML"/>
-</p>
-
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yusra-Munawwar&show_icons=true&theme=radical" alt="Yusra's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yusramunawwar&show_icons=true&theme=radical" alt="Yusra's GitHub stats" />
 </p>
 
 ---
@@ -119,5 +120,6 @@ Here are some ideas to get you started:
 - 📧 yusramunawwar2@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yusra-munawwar-a1566125a)  
 - 💻 [GitHub](https://github.com/yusramunawwar)
+
 
 
