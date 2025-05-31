@@ -14,3 +14,51 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi, I'm Yusra Munawwar 👋</h1>
+
+<p align="center">
+  🚀 Software Engineering Student | 💻 Full Stack Developer | 🤖 AI/ML Enthusiast
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+- 🎓 Final-year Software Engineering student at NED University  
+- 🔧 Skilled in MERN stack, Node.js, React, Python, and Machine Learning  
+- 📊 Built and deployed real-world projects in full-stack apps & AI  
+- 💡 Passionate about problem-solving, research, and building impactful solutions  
+
+---
+
+### 🔍 What I'm Working On
+
+- 📦 A full-stack blockchain-based web application  
+- 🤖 AI/ML Projects including LLMs, CNNs, and Generative AI tools  
+- 🧠 Research on Intent-Based Networking  
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** JavaScript, Python, C++, SQL  
+- **Web Dev:** React.js, Node.js, Express.js, MongoDB, HTML, CSS, Tailwind  
+- **ML/AI:** scikit-learn, TensorFlow, PyTorch, OpenCV  
+- **Tools:** Git, GitHub, Postman, Railway, Vercel, Firebase, Figma  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yusramunawwar&show_icons=true&theme=radical" alt="Yusra's GitHub stats" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+- 📧 yusra.munawwar321@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yusra-munawwar-a1566125a)  
+- 💻 [GitHub](https://github.com/yusramunawwar)
+
