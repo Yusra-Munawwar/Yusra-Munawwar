@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 ### 👩‍💻 About Me
 
-- 🎓 Final-year Software Engineering student at NED University  
-- 🔧 Skilled in MERN stack, Node.js, React, Python, and Machine Learning  
+- 🎓 Software Engineering student at NED University  
+- 🔧 Skilled in MERN stack, Node.js, React, Python, SQL, and Machine Learning  
 - 📊 Built and deployed real-world projects in full-stack apps & AI  
 - 💡 Passionate about problem-solving, research, and building impactful solutions  
 
@@ -34,17 +34,26 @@ Here are some ideas to get you started:
 ### 🔍 What I'm Working On
 
 - 📦 A full-stack blockchain-based web application  
-- 🤖 AI/ML Projects including LLMs, CNNs, and Generative AI tools  
+- 🤖 AI/ML Projects involving LLMs, CNNs, and Generative AI tools  
 - 🧠 Research on Intent-Based Networking  
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Languages & Tools
 
-- **Languages:** JavaScript, Python, C++, SQL  
-- **Web Dev:** React.js, Node.js, Express.js, MongoDB, HTML, CSS, Tailwind  
-- **ML/AI:** scikit-learn, TensorFlow, PyTorch, OpenCV  
-- **Tools:** Git, GitHub, Postman, Railway, Vercel, Firebase, Figma  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40"/>
+</p>
 
 ---
 
@@ -61,4 +70,5 @@ Here are some ideas to get you started:
 - 📧 yusra.munawwar321@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yusra-munawwar-a1566125a)  
 - 💻 [GitHub](https://github.com/yusramunawwar)
+
 
