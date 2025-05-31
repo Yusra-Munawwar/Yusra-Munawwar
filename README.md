@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusramunawwar&show_icons=true&theme=radical" alt="Yusra's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yusra-Munawwar&show_icons=true&theme=radical" alt="Yusra's GitHub stats" />
 </p>
 
 ---
