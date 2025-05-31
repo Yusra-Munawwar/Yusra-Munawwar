@@ -55,9 +55,8 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" alt="Express.js" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=TNMva3J7nj5E&format=png&color=000000" alt="Solidity" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web3js/web3js-original.svg" alt="Web3.js" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=FFFFFF" alt="Express.js" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=TNMva3J7nj5E&format=png&color=FFFFFF" alt="Solidity" width="40"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
@@ -77,7 +76,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
-  <img src="https://img.icons8.com/?size=100&id=fmFqQmR0UdsR&format=png&color=000000" alt="GitHub" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=fmFqQmR0UdsR&format=png&color=FFFFFF" alt="GitHub" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel"/>
